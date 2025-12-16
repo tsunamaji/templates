@@ -13,7 +13,7 @@ git sparse-checkout set {template_name}
 
 StackBlitz for running quick examples:
 ```none
-https://stackblitz.com/github/tsunamaji/templates/{template_name}
+https://stackblitz.com/github/tsunamaji/templates/tree/master/{template_name}
 ```
 
 ## Tools
