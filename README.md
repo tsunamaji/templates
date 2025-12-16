@@ -16,6 +16,10 @@ StackBlitz for running quick examples:
 https://stackblitz.com/github/tsunamaji/templates/tree/master/{template_name}
 ```
 
+### Quick links
+
+* [vite-v7-vue-v3-sass-v1-tailwindcss-v4](https://stackblitz.com/github/tsunamaji/templates/tree/master/vite-v7-vue-v3-sass-v1-tailwindcss-v4)
+
 ## Tools
 
 For space efficiency, we use `pnpm`. All commands here can also be run with `npm`.
