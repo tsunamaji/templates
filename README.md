@@ -16,6 +16,52 @@ StackBlitz for running quick examples:
 https://stackblitz.com/github/tsunamaji/templates/{template_name}
 ```
 
+## Tools
+
+For space efficiency, we use `pnpm`. All commands here can also be run with `npm`.
+
+### Vite
+
+For any Vite bundler-based project, use the following command:
+
+```none
+pnpm create vite@latest
+```
+
+References:
+* https://vite.dev/guide/#scaffolding-your-first-vite-project
+
+### Sass
+
+In most cases, only the Sass dependency needs to be installed:
+
+```none
+pnpm i -D sass
+```
+
+References:
+* https://sass-lang.com/install/#install-npm
+
+### TailwindCSS
+
+In v4, we can already rely on a Vite plugin:
+```none
+pnpm i -D tailwindcss @tailwindcss/vite
+```
+
+In v3, PostCSS is required in any case:
+```none
+pnpm i -D tailwindcss postcss autoprefixer
+```
+
+References:
+* https://tailwindcss.com/docs/installation/using-vite
+* https://v3.tailwindcss.com/docs/installation/using-postcss
+
+## Structure
+
+Instead of many subfolders, each template is given a long folder name, for example: `vite-v7-vue-v3-sass-v1-tailwindcss-v4`. First, always list the bundlers, then the JS framework, followed by everything else. For instance, PostCSS or LightningCSS are not listed because their installation is not required - they are considered extra dependencies. The projects can be created with a few command-line commands, but to understand their structure, a ready-made illustrative example is necessary. This illustrative example can be found inside each folder.
+
 ## License
 
 Copyright (C) 2025–present [Zoltán Rózsa](https://github.com/rozsazoltan) & [Tsunamaji](https://github.com/tsunamaji)
