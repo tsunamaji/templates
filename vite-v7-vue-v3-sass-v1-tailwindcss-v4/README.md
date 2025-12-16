@@ -1,4 +1,6 @@
-# Vite v7 (with TypeScript) + Vue v3 + Sass v1 + TailwindCSS v4
+# tsunamaji/templates
+
+Tempalte: **Vite v7 (with TypeScript) + Vue v3 + Sass v1 + TailwindCSS v4**
 
 This template is a Vite-based Vue project using TypeScript, with Sass and TailwindCSS employed for styling.
 
@@ -83,3 +85,16 @@ Additionally, the template includes the VSCode configurations required for Tailw
 * https://stackoverflow.com/questions/tagged/tailwind-css-intellisense
 * [Tailwind CSS v4 - Unknown at rule @plugin, @custom-variant, @theme, @utility, @variant, @apply, @source, @reference in global.css](https://stackoverflow.com/a/79513027/15167500)
 * [Displaying color boxes next to the TailwindCSS class names indicating the color, anywhere such as in class or className attributes](https://stackoverflow.com/a/79561483/15167500)
+
+## License
+
+Copyright (C) 2025–present [Zoltán Rózsa](https://github.com/rozsazoltan) & [Tsunamaji](https://github.com/tsunamaji)
+
+This version is licensed under the MIT.  
+For full license terms, see the [LICENSE](./LICENSE) file.
+
+## Thanks
+
+A special thanks to all contributors of the open-source projects used in this repository. Your work, dedication, and commitment to maintaining and distributing these tools as open source make projects like this possible.
+
+**Motivation:** Because _together_, nothing is impossible.
