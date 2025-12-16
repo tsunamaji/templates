@@ -36,7 +36,7 @@ References:
 In most cases, only the Sass dependency needs to be installed:
 
 ```none
-pnpm i -D sass
+pnpm i -D sass@1
 ```
 
 References:
@@ -46,12 +46,12 @@ References:
 
 In v4, we can already rely on a Vite plugin:
 ```none
-pnpm i -D tailwindcss @tailwindcss/vite
+pnpm i -D tailwindcss@4 @tailwindcss/vite
 ```
 
 In v3, PostCSS is required in any case:
 ```none
-pnpm i -D tailwindcss postcss autoprefixer
+pnpm i -D tailwindcss@3 postcss autoprefixer
 ```
 
 References:
