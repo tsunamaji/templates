@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tsunamaji: #77c69e;
+  --color-tsunamaji-strong: #116e41;
+}
