@@ -25,10 +25,10 @@ function decrement() {
 <style lang="scss" scoped>
 .btn {
   background-color: var(--color-tsunamaji); /* Since TailwindCSS is also loaded, you have access to its variables */
+  
   &:hover {
     background-color: #2563eb;
   }
-
   &:active {
     background-color: #1d4ed8;
   }
