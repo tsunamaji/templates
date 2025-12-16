@@ -30,10 +30,10 @@ This project is made possible by much love and the other open source software.
 | Name                                                                    | License                                                               |
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------- |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | MIT License © [Tailwind Labs, Inc.](https://github.com/tailwindlabs)  |
-| [vitejs/vite](https://github.com/vitejs/vite)                           | MIT License © [Vite Contributors](https://github.com/vitejs/vite)     |
-| [vuejs/vue](https://github.com/vuejs/vue)                                | MIT License © [Vue.js Contributors](https://github.com/vuejs/vue)     |
-| [facebook/react](https://github.com/facebook/react)                       | MIT License © [Facebook, Inc.](https://github.com/facebook/react)      |
-| [sass/dart-sass](https://github.com/sass/dart-sass)                      | MIT License © [Sass Contributors](https://github.com/sass/dart-sass)  |
+| [vitejs/vite](https://github.com/vitejs/vite)                           | MIT License © [VoidZero Inc.](https://github.comvoidzero)             |
+| [vuejs/vue](https://github.com/vuejs/vue)                               | MIT License © [Yuxi (Evan) You](https://github.com/yyx990803)         |
+| [facebook/react](https://github.com/facebook/react)                     | MIT License © [Meta Platforms, Inc.](https://github.com/facebook)     |
+| [sass/dart-sass](https://github.com/sass/dart-sass)                     | MIT License © [Google Inc.](https://github.com/google)                |
 
 ## Thanks
 
